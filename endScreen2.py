@@ -1,8 +1,3 @@
-"""
-Author: Aaron, Jayden, Timothy
-Date: 01-20-2023
-Purpose: Culminating Project; End screen for 2 player mode
-"""
 
 # I - Import and Initialize
 import pygame
@@ -132,3 +127,4 @@ def end(score1, score2):
         screen.blit(winner, (520, 320))
         screen.blit(labelHigh, (510, 220))
         pygame.display.flip()
+
