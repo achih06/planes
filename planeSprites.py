@@ -1,8 +1,4 @@
-"""
-Author:Aaron, Jayden, Timothy
-Date: 01-20-2023
-Purpose:Culminating Project; Module with all sprites
-"""
+
 # import necessary modules
 import pygame
 import random
@@ -546,3 +542,4 @@ class Rocket(pygame.sprite.Sprite):
         Return:Right as bool
         """
         return self.rect.right
+
