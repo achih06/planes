@@ -1,8 +1,3 @@
-"""
-Author: Aaron, Jayden, Timothy
-Date: 01-20-2023
-Purpose: Culminating Project; End screen for 1 player mode
-"""
 
 # I - Import and Initialize
 import mode1
